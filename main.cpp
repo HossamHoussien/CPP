@@ -1,3 +1,8 @@
+/************************************************************/
+/* This file is only of testing the util helper functions   */
+/* It shows how to use the util namespace                   */
+/* It has no affect of useage of "util" functions           */
+/************************************************************/
 #include <iostream>
 #include <iomanip> //fixed, showpoint, setprecision
 #include "util.h"
