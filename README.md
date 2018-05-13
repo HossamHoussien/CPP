@@ -16,7 +16,8 @@ using namespace util;
 ```
 // These are the functions that you can use
 // Version 1.0
-// Every function is documented within the util.h file and is self-describing, and answering the following questions:
+// Every function is documented within the util.h file and is self-describing, 
+// and answering the following questions:
 // what parameters should I pass? , 
 // what this function returns?
 
@@ -48,4 +49,4 @@ std::string dateFormat(Date , std::string);
 std::string dateDiff(Date , Date);
 ```
 # What else?
-If you have any suggestions about the existing functions or want to add a new one just pull a request and let me know.
+If you have any suggestions about the existing functions or want to add a new one just create a pull request and let me know.
