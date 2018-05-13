@@ -16,6 +16,9 @@ using namespace util;
 ```
 // These are the functions that you can use
 // Version 1.0
+// Every function is documented within the util.h file and is self-describing, and answering the following questions:
+// what parameters should I pass? , 
+// what this function returns?
 
 int power(int , int);
 int random();
