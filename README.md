@@ -1,10 +1,10 @@
 # What is util?
-Many programming languages has the ability to ease the process of developing your applications by providing many functions that makes the dirty work for you so you can docus on your app. If you are a Java, JS, PHP developer and for some reason you have decided to work with C++ you would be surprised by the lack of the built-in functions that you are used to deal with such as (split, reverse, data type parsing, ...).
+Many programming languages have the ability to ease the process of developing your applications by providing many functions that makes the dirty work for you so you can focus on your app. If you are a Java, JS, PHP developer and for some reason you have decided to work with C++ you would be surprised by the lack of the built-in functions that you are used to deal with such as (split, reverse, data type parsing, ...).
 
-In this library you will find a basic helper functions that gives you the same functionality as if you are using Java or other languages. 
+In this library you will find a basic helper functions that gives you the same functionality as if you are using Java or other languages. It is free to use with no restrictions in development or production apps but with no guarantees.
 
 # How to use it?
-Simple enought, all what you have to do is 
+Simple enough, all what you have to do is 
 1) Download the "util.h" file or clone it using CLI
 2) Add the downloaded file into your project folder
 3) Add the following two lines to your main.cpp (or whereever you want to include the library)
@@ -44,3 +44,5 @@ std::vector<std::string> split(std::string, char);
 std::string dateFormat(Date , std::string);
 std::string dateDiff(Date , Date);
 ```
+# What else?
+If you have any suggestions about the existing functions or want to add a new one just pull a request and let me know.
