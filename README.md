@@ -1,5 +1,5 @@
 # What is util?
-Many programming languages have the ability to ease the process of developing your applications by providing many functions that makes the dirty work for you so you can focus on your app. If you are a Java, JS, PHP developer and for some reason you have decided to work with C++ you would be surprised by the lack of the built-in functions that you are used to deal with such as (split, reverse, data type parsing, ...).
+Many programming languages have the ability to ease the process of developing your applications by providing many functions to do the dirty work for you so you can focus on your app. If you are a Java, JS, PHP developer and for some reason you have decided to work with C++ you would be surprised by the lack of the built-in functions that you are used to deal with such as (split, reverse, data type parsing, ...etc).
 
 In this library you will find a basic helper functions that gives you the same functionality as if you are using Java or other languages. It is free to use with no restrictions in development or production apps but with no guarantees.
 
