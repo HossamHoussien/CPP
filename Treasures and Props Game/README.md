@@ -1,0 +1,3 @@
+# Treasures and Props Game 
+
+A textual game that include a treasure that is hidden in one of the "rooms". The player that finds the treasure first wins. Players can pick up or drop props by typing the prop name. Some rooms may contain fixed objects, such as chest, door, window, etc. Players can use the fixed objects by typing the object name provided that the player has the necessary prop to use the object. For instance, to use a box in a room, the player has to be carrying the key. The room description should include the props and objects that still exist in them. Also, modify the players to keep track of which props they have. Implement a limit on the number of props the player can be carrying at the same time. 
